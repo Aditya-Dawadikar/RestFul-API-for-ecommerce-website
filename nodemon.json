@@ -1,0 +1,6 @@
+{
+    "env": {
+        "DB_PASSWORD": "chandler",
+        "JWT_KEY": "secret"
+    }
+}
